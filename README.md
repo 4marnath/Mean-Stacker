@@ -1,1 +1,1 @@
-This is a simple program that performs mean stacking algorithm on a set of FITS files. Mean Stacking is a method applied on a set of astronomical images of a distant IR/radio source and outputs an image in which the noise is reduced and the intensity of the source is enhanced.
+This is a simple program that performs mean stacking algorithm on a set of FITS files. Mean stacking is a method applied on a set of astronomical images of a distant IR/radio source and outputs an image in which the noise is reduced and the intensity of the source is enhanced.
